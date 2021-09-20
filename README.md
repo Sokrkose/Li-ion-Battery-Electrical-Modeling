@@ -36,7 +36,7 @@ In order to find the parameters of the equivalent electrical circuit in LUT form
 
 ### Experiments
 
-For the first experiments we used cylindrical Li-ion cells (18650). The purpose was to check the function of the experimental circuits. Below, it is shown the experimental circuits that we used in order to simulate the cell load and read the voltage values and store them.
+For the first experiments we used cylindrical Li-ion cells (18650). The purpose was to check the function of the experimental topology. Below, it is shown the experimental circuits that we used in order to simulate the cell load and read the voltage values and store them.
 
 ![photo](Screenshots/Screenshot_11.png)
 
@@ -45,7 +45,7 @@ Below, we present the results
 ![photo](Screenshots/Screenshot_13.png)
 
 
-Then we used the old battery cells that our team used in our electric vehicle
+Then we used some old battery cells (pouch cells) that our team used in our electric vehicle
 
 ![photo](Screenshots/Screenshot_12.png)
 
