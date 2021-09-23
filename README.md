@@ -53,8 +53,22 @@ Below, we present the results
 
 ![photo](Screenshots/Screenshot_14.png)
 
+### Modeling
 
+Below, it is presented the simulation voltages in comparison with the real voltages of a battery cell.
 
+![photo](Screenshots/Screenshot_15.png)
+![photo](Screenshots/Screenshot_16.png)
 
+Also, below it is presented the simulation voltages in comparison with the real voltages of a battery cell but now in a more real scenario. Here, the current of the battery cell is the current profile of an Endurance Event (22km track) of the race car.
 
+![photo](Screenshots/Screenshot_17.png)
+![photo](Screenshots/Screenshot_18.png)
+![photo](Screenshots/Screenshot_19.png)
+![photo](Screenshots/Screenshot_20.png)
+![photo](Screenshots/Screenshot_21.png)
+![photo](Screenshots/Screenshot_22.png)
+![photo](Screenshots/Screenshot_23.png)
+
+From these diagrams we were able to make some important observations. At first, we saw that the simulation voltages depend a lot by the LUT that we choose. Also, another factor that we ignored for the present moment was the temperature of the cell, which modifies by a lot the internal resistance of the cell and thus its voltage transient response. However, we noticed that the open-circuit voltage, which is subtracted by the voltage drop, is very accurate and depends on the C-Rate of each experiment.
 
